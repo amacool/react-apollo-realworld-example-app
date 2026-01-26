@@ -14,7 +14,7 @@
     "graphql": "^0.13.2",
     "graphql-tag": "^2.9.2",
     "immutability-helper": "^2.7.1",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.23",
     "prop-types": "^15.6.2",
     "raven-js": "^3.26.3",
     "react": "^16.8",
@@ -42,6 +42,6 @@
     "eslint-plugin-import": "^2.13.0",
     "eslint-plugin-jsx-a11y": "^6.1.1",
     "eslint-plugin-react": "^7.10.0",
-    "graphql-cli": "^2.16.4"
+    "graphql-cli": "^4.1.0"
   }
 }
